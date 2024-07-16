@@ -83,6 +83,6 @@
 
 
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats-SnoepNFTs.vercel.app/api?username=SnoepNFTs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
+<div align=left>
+  <img width=390 src="https://github-readme-stats-git-master-snoeps-projects.vercel.app/api?username=SnoepNFTs&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
 </div>
