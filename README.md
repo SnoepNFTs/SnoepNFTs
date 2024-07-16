@@ -81,8 +81,10 @@
         src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></a>
 </p>
 
+<hr/>
 
+### 📊 Stats
 
 <div align=left>
-  <img width=390 src="https://github-readme-stats-git-master-snoeps-projects.vercel.app/api?username=SnoepNFTs&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
+  <img width=390 src="https://github-readme-stats-xi-bice-41.vercel.app/api?username=SnoepNFTs&count_private=true&include_all_commits=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme statistics" />
 </div>
