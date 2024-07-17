@@ -9,7 +9,7 @@
 - 🔭 I'm currently diving deep into **Frontend Technologies**.
 - 📚 I’m currently learning **React, NextJS, Docker**
 - 🔥 I started my coding journey driven by curiosity, which eventually developed into a passion. 
-- ❤️ Passionate about UI/UX Development, Blockchain Technology, and High Performance Automation Tools, especially when performant tooling is wrapped in a beautiful UI.
+- ❤️ I'm passionate about UI/UX Development, Blockchain Technology, and High Performance Automation Tools, especially when performant tooling is wrapped in a beautiful UI.
 - 💬 Want to reach out? Please message me on [Telegram!](t.me/snoep)
 
 <hr/>
