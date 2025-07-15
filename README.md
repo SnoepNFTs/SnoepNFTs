@@ -6,10 +6,10 @@
 
 
 ### About me 💯
-- 🔭 I'm currently diving deep into **Frontend Technologies**.
-- 📚 I’m currently learning **React, NextJS, Docker**
+- 🔭 I'm currently diving deep into **DevSecOps**.
+- 📚 I’m currently learning **CI/CD, IaC, ELK & Kubernetes**
 - 🔥 I started my coding journey driven by curiosity, which eventually developed into a passion. 
-- ❤️ I'm passionate about UI/UX Development, Blockchain Technology, and High Performance Automation Tools, especially when performant tooling is wrapped in a beautiful UI.
+- ❤️ I'm passionate about High Performance Automation, Blockchain and Full Stack Technologies.
 - 💬 Want to reach out? Please message me on [Telegram!](https://t.me/snoep)
 
 <hr/>
