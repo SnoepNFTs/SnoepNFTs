@@ -79,6 +79,9 @@
         src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img alt="GNU Bash Shell"
         src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></a>
+    <a href="https://www.docker.com/" target="_blank"><img alt="Docker"
+        src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+
 </p>
 
 <hr/>
