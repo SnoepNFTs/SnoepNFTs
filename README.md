@@ -7,7 +7,7 @@
 
 ### About me 💯
 - 🔭 I'm currently diving deep into **DevSecOps**.
-- 📚 I’m currently learning **CI/CD, IaC, ELK & Kubernetes**
+- 📚 I’m currently learning **CI/CD, IaC, ELK and Kubernetes**
 - 🔥 I started my coding journey driven by curiosity, which eventually developed into a passion. 
 - ❤️ I'm passionate about High Performance Automation, Blockchain and Full Stack Technologies.
 - 💬 Want to reach out? Please message me on [Telegram!](https://t.me/snoep)
